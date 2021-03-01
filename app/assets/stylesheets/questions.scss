@@ -1,0 +1,22 @@
+body {
+  padding-top: 80px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.your-question p {
+  border-left: solid;
+  border-width: 5px;
+  border-color: #dddddd;
+  padding: 8px;
+}
+
+.coach-answer p {
+  border-left: solid;
+  border-width: 5px;
+  border-color: #dddddd;
+  padding: 8px;
+  background-color: #fdffbc;
+}
